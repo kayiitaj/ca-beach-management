@@ -13,7 +13,7 @@ export default function BeachMap() {
 
   useEffect(() => {
     // Load GeoJSON data via fetch from public directory
-    fetch('/beaches.geojson')
+    fetch(`${import.meta.env.BASE_URL}beaches.geojson`)
       .then((response) => {
         if (!response.ok) {
           throw new Error(`HTTP error! status: ${response.status}`);

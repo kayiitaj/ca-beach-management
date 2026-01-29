@@ -1,6 +1,6 @@
 import type { BeachProperties } from '../types/beach.types';
 
-export const MANAGEMENT_COLORS: Record<BeachProperties['managementType'], string> = {
+export const MANAGEMENT_COLORS: Record<NonNullable<BeachProperties['managementType']>, string> = {
   state: '#2E7D32',        // Green
   county: '#1976D2',       // Blue
   city: '#F57C00',         // Orange

@@ -63,9 +63,10 @@ export default function BeachLayer({ data }: BeachLayerProps) {
     }
 
     const props = feature.properties as BeachProperties;
+    const fillColor = props.managementType ? MANAGEMENT_COLORS[props.managementType] : '#808080';
     return {
       ...DEFAULT_STYLE,
-      fillColor: MANAGEMENT_COLORS[props.managementType] || '#808080',
+      fillColor,
     };
   };
 
@@ -78,9 +79,10 @@ export default function BeachLayer({ data }: BeachLayerProps) {
     layer.on({
       mouseover: (e) => {
         const target = e.target;
+        const fillColor = props.managementType ? MANAGEMENT_COLORS[props.managementType] : '#808080';
         target.setStyle({
           ...HIGHLIGHT_STYLE,
-          fillColor: MANAGEMENT_COLORS[props.managementType] || '#808080',
+          fillColor,
           cursor: 'pointer',
         });
         target.bringToFront();

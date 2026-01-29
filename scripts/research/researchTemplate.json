@@ -1,0 +1,28 @@
+[
+  {
+    "_comment": "This is a template for manually researched beach data. Copy this structure for each beach you research.",
+    "id": "beach-slug-name",
+    "name": "Beach Display Name",
+    "managementType": "state",
+    "accountableEntity": "State of California",
+    "managingEntity": "California State Parks",
+    "contractedManager": "Optional: City or organization contracted for day-to-day operations",
+    "lifeguardService": "Organization providing lifeguard services",
+    "managerContact": {
+      "department": "Department or Division Name",
+      "phone": "(555) 555-5555",
+      "email": "contact@example.gov",
+      "website": "https://example.gov",
+      "address": "Optional: Physical address"
+    },
+    "facilities": ["parking", "restrooms", "lifeguards", "picnic areas"],
+    "notes": "Any additional notes about the beach",
+    "dataStatus": "complete",
+    "_researchDate": "2024-01-15",
+    "_sources": [
+      "https://www.parks.ca.gov/...",
+      "Phone call with manager",
+      "County website"
+    ]
+  }
+]

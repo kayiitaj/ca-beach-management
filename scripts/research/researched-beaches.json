@@ -1,0 +1,655 @@
+[
+  {
+    "id": "golden-gate-park",
+    "managementType": "federal",
+    "accountableEntity": "U.S. Federal Government",
+    "managingEntity": "National Park Service",
+    "lifeguardService": "National Park Service Rangers",
+    "managerContact": {
+      "department": "Golden Gate National Recreation Area",
+      "phone": "(415) 561-4700",
+      "website": "https://www.nps.gov/goga"
+    },
+    "dataStatus": "partial",
+    "notes": "Auto-generated management data based on naming heuristics. Manual verification recommended."
+  },
+  {
+    "id": "new-brighton-state-beach",
+    "managementType": "state",
+    "accountableEntity": "State of California",
+    "managingEntity": "California State Parks",
+    "lifeguardService": "California State Parks Lifeguards",
+    "managerContact": {
+      "department": "State Parks District Office",
+      "website": "https://www.parks.ca.gov"
+    },
+    "dataStatus": "partial",
+    "notes": "Auto-generated management data based on naming heuristics. Manual verification recommended."
+  },
+  {
+    "id": "silver-strand-state-beach",
+    "managementType": "state",
+    "accountableEntity": "State of California",
+    "managingEntity": "California State Parks",
+    "lifeguardService": "California State Parks Lifeguards",
+    "managerContact": {
+      "department": "State Parks District Office",
+      "website": "https://www.parks.ca.gov"
+    },
+    "dataStatus": "partial",
+    "notes": "Auto-generated management data based on naming heuristics. Manual verification recommended."
+  },
+  {
+    "id": "angel-island-state-park",
+    "managementType": "state",
+    "accountableEntity": "State of California",
+    "managingEntity": "California State Parks",
+    "lifeguardService": "California State Parks Lifeguards",
+    "managerContact": {
+      "department": "State Parks District Office",
+      "website": "https://www.parks.ca.gov"
+    },
+    "dataStatus": "partial",
+    "notes": "Auto-generated management data based on naming heuristics. Manual verification recommended."
+  },
+  {
+    "id": "presidio-of-san-francisco",
+    "managementType": "federal",
+    "accountableEntity": "U.S. Federal Government",
+    "managingEntity": "National Park Service",
+    "lifeguardService": "National Park Service Rangers",
+    "managerContact": {
+      "department": "Golden Gate National Recreation Area",
+      "phone": "(415) 561-4700",
+      "website": "https://www.nps.gov/goga"
+    },
+    "dataStatus": "partial",
+    "notes": "Auto-generated management data based on naming heuristics. Manual verification recommended."
+  },
+  {
+    "id": "lighthouse-field-state-beach",
+    "managementType": "state",
+    "accountableEntity": "State of California",
+    "managingEntity": "California State Parks",
+    "lifeguardService": "California State Parks Lifeguards",
+    "managerContact": {
+      "department": "State Parks District Office",
+      "website": "https://www.parks.ca.gov"
+    },
+    "dataStatus": "partial",
+    "notes": "Auto-generated management data based on naming heuristics. Manual verification recommended."
+  },
+  {
+    "id": "twin-lakes-state-beach",
+    "managementType": "state",
+    "accountableEntity": "State of California",
+    "managingEntity": "California State Parks",
+    "lifeguardService": "California State Parks Lifeguards",
+    "managerContact": {
+      "department": "State Parks District Office",
+      "website": "https://www.parks.ca.gov"
+    },
+    "dataStatus": "partial",
+    "notes": "Auto-generated management data based on naming heuristics. Manual verification recommended."
+  },
+  {
+    "id": "monterey-state-beach-window-on-the-bay",
+    "managementType": "state",
+    "accountableEntity": "State of California",
+    "managingEntity": "California State Parks",
+    "lifeguardService": "California State Parks Lifeguards",
+    "managerContact": {
+      "department": "State Parks District Office",
+      "website": "https://www.parks.ca.gov"
+    },
+    "dataStatus": "partial",
+    "notes": "Auto-generated management data based on naming heuristics. Manual verification recommended."
+  },
+  {
+    "id": "embarcadero",
+    "managementType": "city",
+    "accountableEntity": "City of San Francisco",
+    "managingEntity": "San Francisco Parks & Recreation",
+    "lifeguardService": "San Francisco Lifeguard Services",
+    "managerContact": {
+      "department": "Parks and Recreation Department",
+      "website": "https://www.sanfrancisco.gov"
+    },
+    "dataStatus": "partial",
+    "notes": "Auto-generated management data based on naming heuristics. Manual verification recommended."
+  },
+  {
+    "id": "crissy-field-beach",
+    "managementType": "county",
+    "accountableEntity": "County of San Francisco",
+    "managingEntity": "San Francisco County Parks and Recreation",
+    "lifeguardService": "San Francisco County Lifeguards",
+    "managerContact": {
+      "department": "Department of Parks and Recreation",
+      "website": "https://www.sanfranciscocounty.gov"
+    },
+    "dataStatus": "partial",
+    "notes": "Auto-generated management data based on naming heuristics. Manual verification recommended."
+  },
+  {
+    "id": "lake-merced",
+    "managementType": "county",
+    "accountableEntity": "County of San Francisco",
+    "managingEntity": "San Francisco County Parks and Recreation",
+    "lifeguardService": "San Francisco County Lifeguards",
+    "managerContact": {
+      "department": "Department of Parks and Recreation",
+      "website": "https://www.sanfranciscocounty.gov"
+    },
+    "dataStatus": "partial",
+    "notes": "Auto-generated management data based on naming heuristics. Manual verification recommended."
+  },
+  {
+    "id": "wilder-ranch-state-park",
+    "managementType": "state",
+    "accountableEntity": "State of California",
+    "managingEntity": "California State Parks",
+    "lifeguardService": "California State Parks Lifeguards",
+    "managerContact": {
+      "department": "State Parks District Office",
+      "website": "https://www.parks.ca.gov"
+    },
+    "dataStatus": "partial",
+    "notes": "Auto-generated management data based on naming heuristics. Manual verification recommended."
+  },
+  {
+    "id": "henry-cowell-redwoods-state-park",
+    "managementType": "state",
+    "accountableEntity": "State of California",
+    "managingEntity": "California State Parks",
+    "lifeguardService": "California State Parks Lifeguards",
+    "managerContact": {
+      "department": "State Parks District Office",
+      "website": "https://www.parks.ca.gov"
+    },
+    "dataStatus": "partial",
+    "notes": "Auto-generated management data based on naming heuristics. Manual verification recommended."
+  },
+  {
+    "id": "santa-cruz-municipal-wharf",
+    "managementType": "city",
+    "accountableEntity": "City of Santa Cruz",
+    "managingEntity": "Santa Cruz Parks & Recreation",
+    "lifeguardService": "Santa Cruz Lifeguard Services",
+    "managerContact": {
+      "department": "Parks and Recreation Department",
+      "website": "https://www.santacruz.gov"
+    },
+    "dataStatus": "partial",
+    "notes": "Auto-generated management data based on naming heuristics. Manual verification recommended."
+  },
+  {
+    "id": "santa-cruz-main-beach",
+    "managementType": "city",
+    "accountableEntity": "City of Santa Cruz",
+    "managingEntity": "Santa Cruz Parks & Recreation",
+    "lifeguardService": "Santa Cruz Lifeguard Services",
+    "managerContact": {
+      "department": "Parks and Recreation Department",
+      "website": "https://www.santacruz.gov"
+    },
+    "dataStatus": "partial",
+    "notes": "Auto-generated management data based on naming heuristics. Manual verification recommended."
+  },
+  {
+    "id": "seacliff-state-beach",
+    "managementType": "state",
+    "accountableEntity": "State of California",
+    "managingEntity": "California State Parks",
+    "lifeguardService": "California State Parks Lifeguards",
+    "managerContact": {
+      "department": "State Parks District Office",
+      "website": "https://www.parks.ca.gov"
+    },
+    "dataStatus": "partial",
+    "notes": "Auto-generated management data based on naming heuristics. Manual verification recommended."
+  },
+  {
+    "id": "manresa-state-beach",
+    "managementType": "state",
+    "accountableEntity": "State of California",
+    "managingEntity": "California State Parks",
+    "lifeguardService": "California State Parks Lifeguards",
+    "managerContact": {
+      "department": "State Parks District Office",
+      "website": "https://www.parks.ca.gov"
+    },
+    "dataStatus": "partial",
+    "notes": "Auto-generated management data based on naming heuristics. Manual verification recommended."
+  },
+  {
+    "id": "fort-ord-dunes-state-beach",
+    "managementType": "state",
+    "accountableEntity": "State of California",
+    "managingEntity": "California State Parks",
+    "lifeguardService": "California State Parks Lifeguards",
+    "managerContact": {
+      "department": "State Parks District Office",
+      "website": "https://www.parks.ca.gov"
+    },
+    "dataStatus": "partial",
+    "notes": "Auto-generated management data based on naming heuristics. Manual verification recommended."
+  },
+  {
+    "id": "municipal-wharf-no-2",
+    "managementType": "city",
+    "accountableEntity": "City of Monterey",
+    "managingEntity": "Monterey Parks & Recreation",
+    "lifeguardService": "Monterey Lifeguard Services",
+    "managerContact": {
+      "department": "Parks and Recreation Department",
+      "website": "https://www.monterey.gov"
+    },
+    "dataStatus": "partial",
+    "notes": "Auto-generated management data based on naming heuristics. Manual verification recommended."
+  },
+  {
+    "id": "coast-guard-pier",
+    "managementType": "city",
+    "accountableEntity": "City of Monterey",
+    "managingEntity": "Monterey Parks & Recreation",
+    "lifeguardService": "Monterey Lifeguard Services",
+    "managerContact": {
+      "department": "Parks and Recreation Department",
+      "website": "https://www.monterey.gov"
+    },
+    "dataStatus": "partial",
+    "notes": "Auto-generated management data based on naming heuristics. Manual verification recommended."
+  },
+  {
+    "id": "asilomar-state-beach",
+    "managementType": "state",
+    "accountableEntity": "State of California",
+    "managingEntity": "California State Parks",
+    "lifeguardService": "California State Parks Lifeguards",
+    "managerContact": {
+      "department": "State Parks District Office",
+      "website": "https://www.parks.ca.gov"
+    },
+    "dataStatus": "partial",
+    "notes": "Auto-generated management data based on naming heuristics. Manual verification recommended."
+  },
+  {
+    "id": "carpinteria-state-beach",
+    "managementType": "state",
+    "accountableEntity": "State of California",
+    "managingEntity": "California State Parks",
+    "lifeguardService": "California State Parks Lifeguards",
+    "managerContact": {
+      "department": "State Parks District Office",
+      "website": "https://www.parks.ca.gov"
+    },
+    "dataStatus": "partial",
+    "notes": "Auto-generated management data based on naming heuristics. Manual verification recommended."
+  },
+  {
+    "id": "san-buenaventura-state-beach",
+    "managementType": "state",
+    "accountableEntity": "State of California",
+    "managingEntity": "California State Parks",
+    "lifeguardService": "California State Parks Lifeguards",
+    "managerContact": {
+      "department": "State Parks District Office",
+      "website": "https://www.parks.ca.gov"
+    },
+    "dataStatus": "partial",
+    "notes": "Auto-generated management data based on naming heuristics. Manual verification recommended."
+  },
+  {
+    "id": "mcgrath-state-beach",
+    "managementType": "state",
+    "accountableEntity": "State of California",
+    "managingEntity": "California State Parks",
+    "lifeguardService": "California State Parks Lifeguards",
+    "managerContact": {
+      "department": "State Parks District Office",
+      "website": "https://www.parks.ca.gov"
+    },
+    "dataStatus": "partial",
+    "notes": "Auto-generated management data based on naming heuristics. Manual verification recommended."
+  },
+  {
+    "id": "santa-monica-state-beach",
+    "managementType": "state",
+    "accountableEntity": "State of California",
+    "managingEntity": "California State Parks",
+    "lifeguardService": "California State Parks Lifeguards",
+    "managerContact": {
+      "department": "State Parks District Office",
+      "website": "https://www.parks.ca.gov"
+    },
+    "dataStatus": "partial",
+    "notes": "Auto-generated management data based on naming heuristics. Manual verification recommended."
+  },
+  {
+    "id": "long-beach-city-beach",
+    "managementType": "city",
+    "accountableEntity": "City of Los Angeles",
+    "managingEntity": "Los Angeles Parks & Recreation",
+    "lifeguardService": "Los Angeles Lifeguard Services",
+    "managerContact": {
+      "department": "Parks and Recreation Department",
+      "website": "https://www.losangeles.gov"
+    },
+    "dataStatus": "partial",
+    "notes": "Auto-generated management data based on naming heuristics. Manual verification recommended."
+  },
+  {
+    "id": "mackerricher-state-park",
+    "managementType": "state",
+    "accountableEntity": "State of California",
+    "managingEntity": "California State Parks",
+    "lifeguardService": "California State Parks Lifeguards",
+    "managerContact": {
+      "department": "State Parks District Office",
+      "website": "https://www.parks.ca.gov"
+    },
+    "dataStatus": "partial",
+    "notes": "Auto-generated management data based on naming heuristics. Manual verification recommended."
+  },
+  {
+    "id": "van-damme-state-park",
+    "managementType": "state",
+    "accountableEntity": "State of California",
+    "managingEntity": "California State Parks",
+    "lifeguardService": "California State Parks Lifeguards",
+    "managerContact": {
+      "department": "State Parks District Office",
+      "website": "https://www.parks.ca.gov"
+    },
+    "dataStatus": "partial",
+    "notes": "Auto-generated management data based on naming heuristics. Manual verification recommended."
+  },
+  {
+    "id": "sonoma-coast-state-park",
+    "managementType": "state",
+    "accountableEntity": "State of California",
+    "managingEntity": "California State Parks",
+    "lifeguardService": "California State Parks Lifeguards",
+    "managerContact": {
+      "department": "State Parks District Office",
+      "website": "https://www.parks.ca.gov"
+    },
+    "dataStatus": "partial",
+    "notes": "Auto-generated management data based on naming heuristics. Manual verification recommended."
+  },
+  {
+    "id": "mount-tamalpais-state-park",
+    "managementType": "state",
+    "accountableEntity": "State of California",
+    "managingEntity": "California State Parks",
+    "lifeguardService": "California State Parks Lifeguards",
+    "managerContact": {
+      "department": "State Parks District Office",
+      "website": "https://www.parks.ca.gov"
+    },
+    "dataStatus": "partial",
+    "notes": "Auto-generated management data based on naming heuristics. Manual verification recommended."
+  },
+  {
+    "id": "aquatic-park",
+    "managementType": "county",
+    "accountableEntity": "County of San Francisco",
+    "managingEntity": "San Francisco County Parks and Recreation",
+    "lifeguardService": "San Francisco County Lifeguards",
+    "managerContact": {
+      "department": "Department of Parks and Recreation",
+      "website": "https://www.sanfranciscocounty.gov"
+    },
+    "dataStatus": "partial",
+    "notes": "Auto-generated management data based on naming heuristics. Manual verification recommended."
+  },
+  {
+    "id": "marina-green",
+    "managementType": "county",
+    "accountableEntity": "County of San Francisco",
+    "managingEntity": "San Francisco County Parks and Recreation",
+    "lifeguardService": "San Francisco County Lifeguards",
+    "managerContact": {
+      "department": "Department of Parks and Recreation",
+      "website": "https://www.sanfranciscocounty.gov"
+    },
+    "dataStatus": "partial",
+    "notes": "Auto-generated management data based on naming heuristics. Manual verification recommended."
+  },
+  {
+    "id": "fisherman-s-wharf",
+    "managementType": "city",
+    "accountableEntity": "City of San Francisco",
+    "managingEntity": "San Francisco Parks & Recreation",
+    "lifeguardService": "San Francisco Lifeguard Services",
+    "managerContact": {
+      "department": "Parks and Recreation Department",
+      "website": "https://www.sanfrancisco.gov"
+    },
+    "dataStatus": "partial",
+    "notes": "Auto-generated management data based on naming heuristics. Manual verification recommended."
+  },
+  {
+    "id": "south-beach-harbor",
+    "managementType": "county",
+    "accountableEntity": "County of San Francisco",
+    "managingEntity": "San Francisco County Parks and Recreation",
+    "lifeguardService": "San Francisco County Lifeguards",
+    "managerContact": {
+      "department": "Department of Parks and Recreation",
+      "website": "https://www.sanfranciscocounty.gov"
+    },
+    "dataStatus": "partial",
+    "notes": "Auto-generated management data based on naming heuristics. Manual verification recommended."
+  },
+  {
+    "id": "golden-gate-bridge-vista-point-south",
+    "managementType": "federal",
+    "accountableEntity": "U.S. Federal Government",
+    "managingEntity": "National Park Service",
+    "lifeguardService": "National Park Service Rangers",
+    "managerContact": {
+      "department": "Golden Gate National Recreation Area",
+      "phone": "(415) 561-4700",
+      "website": "https://www.nps.gov/goga"
+    },
+    "dataStatus": "partial",
+    "notes": "Auto-generated management data based on naming heuristics. Manual verification recommended."
+  },
+  {
+    "id": "ocean-beach",
+    "managementType": "county",
+    "accountableEntity": "County of San Francisco",
+    "managingEntity": "San Francisco County Parks and Recreation",
+    "lifeguardService": "San Francisco County Lifeguards",
+    "managerContact": {
+      "department": "Department of Parks and Recreation",
+      "website": "https://www.sanfranciscocounty.gov"
+    },
+    "dataStatus": "partial",
+    "notes": "Auto-generated management data based on naming heuristics. Manual verification recommended."
+  },
+  {
+    "id": "natural-bridges-state-beach",
+    "managementType": "state",
+    "accountableEntity": "State of California",
+    "managingEntity": "California State Parks",
+    "lifeguardService": "California State Parks Lifeguards",
+    "managerContact": {
+      "department": "State Parks District Office",
+      "website": "https://www.parks.ca.gov"
+    },
+    "dataStatus": "partial",
+    "notes": "Auto-generated management data based on naming heuristics. Manual verification recommended."
+  },
+  {
+    "id": "capitola-city-beach",
+    "managementType": "city",
+    "accountableEntity": "City of Santa Cruz",
+    "managingEntity": "Santa Cruz Parks & Recreation",
+    "lifeguardService": "Santa Cruz Lifeguard Services",
+    "managerContact": {
+      "department": "Parks and Recreation Department",
+      "website": "https://www.santacruz.gov"
+    },
+    "dataStatus": "partial",
+    "notes": "Auto-generated management data based on naming heuristics. Manual verification recommended."
+  },
+  {
+    "id": "sunset-state-beach",
+    "managementType": "state",
+    "accountableEntity": "State of California",
+    "managingEntity": "California State Parks",
+    "lifeguardService": "California State Parks Lifeguards",
+    "managerContact": {
+      "department": "State Parks District Office",
+      "website": "https://www.parks.ca.gov"
+    },
+    "dataStatus": "partial",
+    "notes": "Auto-generated management data based on naming heuristics. Manual verification recommended."
+  },
+  {
+    "id": "monterey-state-beach-houghton-m-roberts-beach",
+    "managementType": "state",
+    "accountableEntity": "State of California",
+    "managingEntity": "California State Parks",
+    "lifeguardService": "California State Parks Lifeguards",
+    "managerContact": {
+      "department": "State Parks District Office",
+      "website": "https://www.parks.ca.gov"
+    },
+    "dataStatus": "partial",
+    "notes": "Auto-generated management data based on naming heuristics. Manual verification recommended."
+  },
+  {
+    "id": "monterey-beach",
+    "managementType": "county",
+    "accountableEntity": "County of Monterey",
+    "managingEntity": "Monterey County Parks and Recreation",
+    "lifeguardService": "Monterey County Lifeguards",
+    "managerContact": {
+      "department": "Department of Parks and Recreation",
+      "website": "https://www.montereycounty.gov"
+    },
+    "dataStatus": "partial",
+    "notes": "Auto-generated management data based on naming heuristics. Manual verification recommended."
+  },
+  {
+    "id": "city-of-monterey",
+    "managementType": "county",
+    "accountableEntity": "County of Monterey",
+    "managingEntity": "Monterey County Parks and Recreation",
+    "lifeguardService": "Monterey County Lifeguards",
+    "managerContact": {
+      "department": "Department of Parks and Recreation",
+      "website": "https://www.montereycounty.gov"
+    },
+    "dataStatus": "partial",
+    "notes": "Auto-generated management data based on naming heuristics. Manual verification recommended."
+  },
+  {
+    "id": "carmel-city-beach",
+    "managementType": "city",
+    "accountableEntity": "City of Monterey",
+    "managingEntity": "Monterey Parks & Recreation",
+    "lifeguardService": "Monterey Lifeguard Services",
+    "managerContact": {
+      "department": "Parks and Recreation Department",
+      "website": "https://www.monterey.gov"
+    },
+    "dataStatus": "partial",
+    "notes": "Auto-generated management data based on naming heuristics. Manual verification recommended."
+  },
+  {
+    "id": "carmel-river-state-beach",
+    "managementType": "state",
+    "accountableEntity": "State of California",
+    "managingEntity": "California State Parks",
+    "lifeguardService": "California State Parks Lifeguards",
+    "managerContact": {
+      "department": "State Parks District Office",
+      "website": "https://www.parks.ca.gov"
+    },
+    "dataStatus": "partial",
+    "notes": "Auto-generated management data based on naming heuristics. Manual verification recommended."
+  },
+  {
+    "id": "gaviota-state-park",
+    "managementType": "state",
+    "accountableEntity": "State of California",
+    "managingEntity": "California State Parks",
+    "lifeguardService": "California State Parks Lifeguards",
+    "managerContact": {
+      "department": "State Parks District Office",
+      "website": "https://www.parks.ca.gov"
+    },
+    "dataStatus": "partial",
+    "notes": "Auto-generated management data based on naming heuristics. Manual verification recommended."
+  },
+  {
+    "id": "refugio-state-beach",
+    "managementType": "state",
+    "accountableEntity": "State of California",
+    "managingEntity": "California State Parks",
+    "lifeguardService": "California State Parks Lifeguards",
+    "managerContact": {
+      "department": "State Parks District Office",
+      "website": "https://www.parks.ca.gov"
+    },
+    "dataStatus": "partial",
+    "notes": "Auto-generated management data based on naming heuristics. Manual verification recommended."
+  },
+  {
+    "id": "el-capit-aacute-n-state-beach",
+    "managementType": "state",
+    "accountableEntity": "State of California",
+    "managingEntity": "California State Parks",
+    "lifeguardService": "California State Parks Lifeguards",
+    "managerContact": {
+      "department": "State Parks District Office",
+      "website": "https://www.parks.ca.gov"
+    },
+    "dataStatus": "partial",
+    "notes": "Auto-generated management data based on naming heuristics. Manual verification recommended."
+  },
+  {
+    "id": "west-beach-santa-barbara",
+    "managementType": "county",
+    "accountableEntity": "County of Santa Barbara",
+    "managingEntity": "Santa Barbara County Parks and Recreation",
+    "lifeguardService": "Santa Barbara County Lifeguards",
+    "managerContact": {
+      "department": "Department of Parks and Recreation",
+      "website": "https://www.santabarbaracounty.gov"
+    },
+    "dataStatus": "partial",
+    "notes": "Auto-generated management data based on naming heuristics. Manual verification recommended."
+  },
+  {
+    "id": "carpinteria-city-beach",
+    "managementType": "city",
+    "accountableEntity": "City of Santa Barbara",
+    "managingEntity": "Santa Barbara Parks & Recreation",
+    "lifeguardService": "Santa Barbara Lifeguard Services",
+    "managerContact": {
+      "department": "Parks and Recreation Department",
+      "website": "https://www.santabarbara.gov"
+    },
+    "dataStatus": "partial",
+    "notes": "Auto-generated management data based on naming heuristics. Manual verification recommended."
+  },
+  {
+    "id": "will-rogers-state-beach-temescal-canyon-rd",
+    "managementType": "state",
+    "accountableEntity": "State of California",
+    "managingEntity": "California State Parks",
+    "lifeguardService": "California State Parks Lifeguards",
+    "managerContact": {
+      "department": "State Parks District Office",
+      "website": "https://www.parks.ca.gov"
+    },
+    "dataStatus": "partial",
+    "notes": "Auto-generated management data based on naming heuristics. Manual verification recommended."
+  }
+]

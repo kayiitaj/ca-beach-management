@@ -1,0 +1,902 @@
+[
+  {
+    "id": "golden-gate-park",
+    "name": "Golden Gate Park",
+    "county": "San Francisco",
+    "region": "north",
+    "score": 90,
+    "scoringDetails": {
+      "population": 20,
+      "facilities": 30,
+      "accessibility": 20,
+      "landmarks": 15,
+      "countyRepresentation": 5
+    },
+    "coordinates": {
+      "latitude": 37.768855,
+      "longitude": -122.467163
+    }
+  },
+  {
+    "id": "new-brighton-state-beach",
+    "name": "New Brighton State Beach",
+    "county": "Santa Cruz",
+    "region": "central",
+    "score": 85,
+    "scoringDetails": {
+      "population": 20,
+      "facilities": 30,
+      "accessibility": 20,
+      "landmarks": 15,
+      "countyRepresentation": 0
+    },
+    "coordinates": {
+      "latitude": 36.980244,
+      "longitude": -121.937537
+    }
+  },
+  {
+    "id": "silver-strand-state-beach",
+    "name": "Silver Strand State Beach",
+    "county": "San Diego",
+    "region": "south",
+    "score": 80,
+    "scoringDetails": {
+      "population": 20,
+      "facilities": 30,
+      "accessibility": 15,
+      "landmarks": 15,
+      "countyRepresentation": 0
+    },
+    "coordinates": {
+      "latitude": 32.631013,
+      "longitude": -117.140939
+    }
+  },
+  {
+    "id": "angel-island-state-park",
+    "name": "Angel Island State Park",
+    "county": "San Francisco",
+    "region": "north",
+    "score": 75,
+    "scoringDetails": {
+      "population": 20,
+      "facilities": 25,
+      "accessibility": 10,
+      "landmarks": 15,
+      "countyRepresentation": 5
+    },
+    "coordinates": {
+      "latitude": 37.860677,
+      "longitude": -122.432384
+    }
+  },
+  {
+    "id": "presidio-of-san-francisco",
+    "name": "Presidio of San Francisco",
+    "county": "San Francisco",
+    "region": "north",
+    "score": 75,
+    "scoringDetails": {
+      "population": 20,
+      "facilities": 30,
+      "accessibility": 20,
+      "landmarks": 0,
+      "countyRepresentation": 5
+    },
+    "coordinates": {
+      "latitude": 37.79768,
+      "longitude": -122.458892
+    }
+  },
+  {
+    "id": "lighthouse-field-state-beach",
+    "name": "Lighthouse Field State Beach",
+    "county": "Santa Cruz",
+    "region": "central",
+    "score": 75,
+    "scoringDetails": {
+      "population": 20,
+      "facilities": 20,
+      "accessibility": 20,
+      "landmarks": 15,
+      "countyRepresentation": 0
+    },
+    "coordinates": {
+      "latitude": 36.953157,
+      "longitude": -122.028984
+    }
+  },
+  {
+    "id": "twin-lakes-state-beach",
+    "name": "Twin Lakes State Beach",
+    "county": "Santa Cruz",
+    "region": "central",
+    "score": 75,
+    "scoringDetails": {
+      "population": 20,
+      "facilities": 20,
+      "accessibility": 20,
+      "landmarks": 15,
+      "countyRepresentation": 0
+    },
+    "coordinates": {
+      "latitude": 36.961187,
+      "longitude": -121.997891
+    }
+  },
+  {
+    "id": "monterey-state-beach-window-on-the-bay",
+    "name": "Monterey State Beach (Window on the Bay)",
+    "county": "Monterey",
+    "region": "central",
+    "score": 75,
+    "scoringDetails": {
+      "population": 20,
+      "facilities": 25,
+      "accessibility": 15,
+      "landmarks": 15,
+      "countyRepresentation": 0
+    },
+    "coordinates": {
+      "latitude": 36.600898,
+      "longitude": -121.883192
+    }
+  },
+  {
+    "id": "embarcadero",
+    "name": "Embarcadero",
+    "county": "San Francisco",
+    "region": "north",
+    "score": 70,
+    "scoringDetails": {
+      "population": 20,
+      "facilities": 25,
+      "accessibility": 20,
+      "landmarks": 0,
+      "countyRepresentation": 5
+    },
+    "coordinates": {
+      "latitude": 37.799174,
+      "longitude": -122.397564
+    }
+  },
+  {
+    "id": "crissy-field-beach",
+    "name": "Crissy Field Beach",
+    "county": "San Francisco",
+    "region": "north",
+    "score": 70,
+    "scoringDetails": {
+      "population": 20,
+      "facilities": 25,
+      "accessibility": 20,
+      "landmarks": 0,
+      "countyRepresentation": 5
+    },
+    "coordinates": {
+      "latitude": 37.806149,
+      "longitude": -122.45085
+    }
+  },
+  {
+    "id": "lake-merced",
+    "name": "Lake Merced",
+    "county": "San Francisco",
+    "region": "north",
+    "score": 70,
+    "scoringDetails": {
+      "population": 20,
+      "facilities": 25,
+      "accessibility": 20,
+      "landmarks": 0,
+      "countyRepresentation": 5
+    },
+    "coordinates": {
+      "latitude": 37.72645,
+      "longitude": -122.501452
+    }
+  },
+  {
+    "id": "wilder-ranch-state-park",
+    "name": "Wilder Ranch State Park",
+    "county": "Santa Cruz",
+    "region": "central",
+    "score": 70,
+    "scoringDetails": {
+      "population": 20,
+      "facilities": 20,
+      "accessibility": 15,
+      "landmarks": 15,
+      "countyRepresentation": 0
+    },
+    "coordinates": {
+      "latitude": 36.96093,
+      "longitude": -122.087027
+    }
+  },
+  {
+    "id": "henry-cowell-redwoods-state-park",
+    "name": "Henry Cowell Redwoods State Park",
+    "county": "Santa Cruz",
+    "region": "central",
+    "score": 70,
+    "scoringDetails": {
+      "population": 20,
+      "facilities": 20,
+      "accessibility": 15,
+      "landmarks": 15,
+      "countyRepresentation": 0
+    },
+    "coordinates": {
+      "latitude": 37.043896,
+      "longitude": -122.072815
+    }
+  },
+  {
+    "id": "santa-cruz-municipal-wharf",
+    "name": "Santa Cruz Municipal Wharf",
+    "county": "Santa Cruz",
+    "region": "central",
+    "score": 70,
+    "scoringDetails": {
+      "population": 20,
+      "facilities": 20,
+      "accessibility": 15,
+      "landmarks": 15,
+      "countyRepresentation": 0
+    },
+    "coordinates": {
+      "latitude": 36.962567,
+      "longitude": -122.023483
+    }
+  },
+  {
+    "id": "santa-cruz-main-beach",
+    "name": "Santa Cruz Main Beach",
+    "county": "Santa Cruz",
+    "region": "central",
+    "score": 70,
+    "scoringDetails": {
+      "population": 20,
+      "facilities": 20,
+      "accessibility": 15,
+      "landmarks": 15,
+      "countyRepresentation": 0
+    },
+    "coordinates": {
+      "latitude": 36.963435,
+      "longitude": -122.017302
+    }
+  },
+  {
+    "id": "seacliff-state-beach",
+    "name": "Seacliff State Beach",
+    "county": "Santa Cruz",
+    "region": "central",
+    "score": 70,
+    "scoringDetails": {
+      "population": 15,
+      "facilities": 25,
+      "accessibility": 15,
+      "landmarks": 15,
+      "countyRepresentation": 0
+    },
+    "coordinates": {
+      "latitude": 36.972018,
+      "longitude": -121.914088
+    }
+  },
+  {
+    "id": "manresa-state-beach",
+    "name": "Manresa State Beach",
+    "county": "Santa Cruz",
+    "region": "central",
+    "score": 70,
+    "scoringDetails": {
+      "population": 15,
+      "facilities": 20,
+      "accessibility": 20,
+      "landmarks": 15,
+      "countyRepresentation": 0
+    },
+    "coordinates": {
+      "latitude": 36.93215,
+      "longitude": -121.86248
+    }
+  },
+  {
+    "id": "fort-ord-dunes-state-beach",
+    "name": "Fort Ord Dunes State Beach",
+    "county": "Monterey",
+    "region": "central",
+    "score": 70,
+    "scoringDetails": {
+      "population": 20,
+      "facilities": 20,
+      "accessibility": 15,
+      "landmarks": 15,
+      "countyRepresentation": 0
+    },
+    "coordinates": {
+      "latitude": 36.659745,
+      "longitude": -121.821219
+    }
+  },
+  {
+    "id": "municipal-wharf-no-2",
+    "name": "Municipal Wharf No. 2",
+    "county": "Monterey",
+    "region": "central",
+    "score": 70,
+    "scoringDetails": {
+      "population": 20,
+      "facilities": 20,
+      "accessibility": 15,
+      "landmarks": 15,
+      "countyRepresentation": 0
+    },
+    "coordinates": {
+      "latitude": 36.601918,
+      "longitude": -121.889769
+    }
+  },
+  {
+    "id": "coast-guard-pier",
+    "name": "Coast Guard Pier",
+    "county": "Monterey",
+    "region": "central",
+    "score": 70,
+    "scoringDetails": {
+      "population": 20,
+      "facilities": 20,
+      "accessibility": 15,
+      "landmarks": 15,
+      "countyRepresentation": 0
+    },
+    "coordinates": {
+      "latitude": 36.609413,
+      "longitude": -121.893904
+    }
+  },
+  {
+    "id": "asilomar-state-beach",
+    "name": "Asilomar State Beach",
+    "county": "Monterey",
+    "region": "central",
+    "score": 70,
+    "scoringDetails": {
+      "population": 20,
+      "facilities": 15,
+      "accessibility": 20,
+      "landmarks": 15,
+      "countyRepresentation": 0
+    },
+    "coordinates": {
+      "latitude": 36.627668,
+      "longitude": -121.938204
+    }
+  },
+  {
+    "id": "carpinteria-state-beach",
+    "name": "Carpinteria State Beach",
+    "county": "Santa Barbara",
+    "region": "south",
+    "score": 70,
+    "scoringDetails": {
+      "population": 15,
+      "facilities": 25,
+      "accessibility": 15,
+      "landmarks": 15,
+      "countyRepresentation": 0
+    },
+    "coordinates": {
+      "latitude": 34.392262,
+      "longitude": -119.521044
+    }
+  },
+  {
+    "id": "san-buenaventura-state-beach",
+    "name": "San Buenaventura State Beach",
+    "county": "Ventura",
+    "region": "south",
+    "score": 70,
+    "scoringDetails": {
+      "population": 10,
+      "facilities": 30,
+      "accessibility": 15,
+      "landmarks": 15,
+      "countyRepresentation": 0
+    },
+    "coordinates": {
+      "latitude": 34.269512,
+      "longitude": -119.280055
+    }
+  },
+  {
+    "id": "mcgrath-state-beach",
+    "name": "McGrath State Beach",
+    "county": "Ventura",
+    "region": "south",
+    "score": 70,
+    "scoringDetails": {
+      "population": 10,
+      "facilities": 25,
+      "accessibility": 20,
+      "landmarks": 15,
+      "countyRepresentation": 0
+    },
+    "coordinates": {
+      "latitude": 34.229134,
+      "longitude": -119.25873
+    }
+  },
+  {
+    "id": "santa-monica-state-beach",
+    "name": "Santa Monica State Beach",
+    "county": "Los Angeles",
+    "region": "south",
+    "score": 70,
+    "scoringDetails": {
+      "population": 15,
+      "facilities": 25,
+      "accessibility": 15,
+      "landmarks": 15,
+      "countyRepresentation": 0
+    },
+    "coordinates": {
+      "latitude": 34.017891,
+      "longitude": -118.506488
+    }
+  },
+  {
+    "id": "long-beach-city-beach",
+    "name": "Long Beach City Beach",
+    "county": "Los Angeles",
+    "region": "south",
+    "score": 70,
+    "scoringDetails": {
+      "population": 10,
+      "facilities": 30,
+      "accessibility": 15,
+      "landmarks": 15,
+      "countyRepresentation": 0
+    },
+    "coordinates": {
+      "latitude": 33.763737,
+      "longitude": -118.176066
+    }
+  },
+  {
+    "id": "mackerricher-state-park",
+    "name": "MacKerricher State Park",
+    "county": "Mendocino",
+    "region": "north",
+    "score": 65,
+    "scoringDetails": {
+      "population": 0,
+      "facilities": 30,
+      "accessibility": 20,
+      "landmarks": 15,
+      "countyRepresentation": 0
+    },
+    "coordinates": {
+      "latitude": 39.489109,
+      "longitude": -123.789546
+    }
+  },
+  {
+    "id": "van-damme-state-park",
+    "name": "Van Damme State Park",
+    "county": "Mendocino",
+    "region": "north",
+    "score": 65,
+    "scoringDetails": {
+      "population": 0,
+      "facilities": 30,
+      "accessibility": 20,
+      "landmarks": 15,
+      "countyRepresentation": 0
+    },
+    "coordinates": {
+      "latitude": 39.274325,
+      "longitude": -123.790525
+    }
+  },
+  {
+    "id": "sonoma-coast-state-park",
+    "name": "Sonoma Coast State Park",
+    "county": "Sonoma",
+    "region": "north",
+    "score": 65,
+    "scoringDetails": {
+      "population": 5,
+      "facilities": 25,
+      "accessibility": 20,
+      "landmarks": 15,
+      "countyRepresentation": 0
+    },
+    "coordinates": {
+      "latitude": 38.402301,
+      "longitude": -123.095155
+    }
+  },
+  {
+    "id": "mount-tamalpais-state-park",
+    "name": "Mount Tamalpais State Park",
+    "county": "Marin",
+    "region": "north",
+    "score": 65,
+    "scoringDetails": {
+      "population": 15,
+      "facilities": 20,
+      "accessibility": 15,
+      "landmarks": 15,
+      "countyRepresentation": 0
+    },
+    "coordinates": {
+      "latitude": 37.904246,
+      "longitude": -122.603976
+    }
+  },
+  {
+    "id": "aquatic-park",
+    "name": "Aquatic Park",
+    "county": "San Francisco",
+    "region": "north",
+    "score": 65,
+    "scoringDetails": {
+      "population": 20,
+      "facilities": 25,
+      "accessibility": 15,
+      "landmarks": 0,
+      "countyRepresentation": 5
+    },
+    "coordinates": {
+      "latitude": 37.806587,
+      "longitude": -122.423962
+    }
+  },
+  {
+    "id": "marina-green",
+    "name": "Marina Green",
+    "county": "San Francisco",
+    "region": "north",
+    "score": 65,
+    "scoringDetails": {
+      "population": 20,
+      "facilities": 20,
+      "accessibility": 20,
+      "landmarks": 0,
+      "countyRepresentation": 5
+    },
+    "coordinates": {
+      "latitude": 37.806554,
+      "longitude": -122.43934
+    }
+  },
+  {
+    "id": "fisherman-s-wharf",
+    "name": "Fisherman's Wharf",
+    "county": "San Francisco",
+    "region": "north",
+    "score": 65,
+    "scoringDetails": {
+      "population": 20,
+      "facilities": 25,
+      "accessibility": 15,
+      "landmarks": 0,
+      "countyRepresentation": 5
+    },
+    "coordinates": {
+      "latitude": 37.808301,
+      "longitude": -122.415869
+    }
+  },
+  {
+    "id": "south-beach-harbor",
+    "name": "South Beach Harbor",
+    "county": "San Francisco",
+    "region": "north",
+    "score": 65,
+    "scoringDetails": {
+      "population": 20,
+      "facilities": 25,
+      "accessibility": 15,
+      "landmarks": 0,
+      "countyRepresentation": 5
+    },
+    "coordinates": {
+      "latitude": 37.78012,
+      "longitude": -122.386092
+    }
+  },
+  {
+    "id": "golden-gate-bridge-vista-point-south",
+    "name": "Golden Gate Bridge Vista Point - South",
+    "county": "San Francisco",
+    "region": "north",
+    "score": 65,
+    "scoringDetails": {
+      "population": 20,
+      "facilities": 10,
+      "accessibility": 15,
+      "landmarks": 15,
+      "countyRepresentation": 5
+    },
+    "coordinates": {
+      "latitude": 37.807669,
+      "longitude": -122.475045
+    }
+  },
+  {
+    "id": "ocean-beach",
+    "name": "Ocean Beach",
+    "county": "San Francisco",
+    "region": "north",
+    "score": 65,
+    "scoringDetails": {
+      "population": 20,
+      "facilities": 20,
+      "accessibility": 20,
+      "landmarks": 0,
+      "countyRepresentation": 5
+    },
+    "coordinates": {
+      "latitude": 37.760181,
+      "longitude": -122.511163
+    }
+  },
+  {
+    "id": "natural-bridges-state-beach",
+    "name": "Natural Bridges State Beach",
+    "county": "Santa Cruz",
+    "region": "central",
+    "score": 65,
+    "scoringDetails": {
+      "population": 20,
+      "facilities": 15,
+      "accessibility": 15,
+      "landmarks": 15,
+      "countyRepresentation": 0
+    },
+    "coordinates": {
+      "latitude": 36.950745,
+      "longitude": -122.055934
+    }
+  },
+  {
+    "id": "capitola-city-beach",
+    "name": "Capitola City Beach",
+    "county": "Santa Cruz",
+    "region": "central",
+    "score": 65,
+    "scoringDetails": {
+      "population": 20,
+      "facilities": 15,
+      "accessibility": 15,
+      "landmarks": 15,
+      "countyRepresentation": 0
+    },
+    "coordinates": {
+      "latitude": 36.971644,
+      "longitude": -121.951342
+    }
+  },
+  {
+    "id": "sunset-state-beach",
+    "name": "Sunset State Beach",
+    "county": "Santa Cruz",
+    "region": "central",
+    "score": 65,
+    "scoringDetails": {
+      "population": 15,
+      "facilities": 20,
+      "accessibility": 15,
+      "landmarks": 15,
+      "countyRepresentation": 0
+    },
+    "coordinates": {
+      "latitude": 36.895573,
+      "longitude": -121.838406
+    }
+  },
+  {
+    "id": "monterey-state-beach-houghton-m-roberts-beach",
+    "name": "Monterey State Beach (Houghton M. Roberts Beach)",
+    "county": "Monterey",
+    "region": "central",
+    "score": 65,
+    "scoringDetails": {
+      "population": 20,
+      "facilities": 15,
+      "accessibility": 15,
+      "landmarks": 15,
+      "countyRepresentation": 0
+    },
+    "coordinates": {
+      "latitude": 36.610114,
+      "longitude": -121.859694
+    }
+  },
+  {
+    "id": "monterey-beach",
+    "name": "Monterey Beach",
+    "county": "Monterey",
+    "region": "central",
+    "score": 65,
+    "scoringDetails": {
+      "population": 20,
+      "facilities": 25,
+      "accessibility": 20,
+      "landmarks": 0,
+      "countyRepresentation": 0
+    },
+    "coordinates": {
+      "latitude": 36.60128,
+      "longitude": -121.888071
+    }
+  },
+  {
+    "id": "city-of-monterey",
+    "name": "City of Monterey",
+    "county": "Monterey",
+    "region": "central",
+    "score": 65,
+    "scoringDetails": {
+      "population": 20,
+      "facilities": 30,
+      "accessibility": 15,
+      "landmarks": 0,
+      "countyRepresentation": 0
+    },
+    "coordinates": {
+      "latitude": 36.601027,
+      "longitude": -121.894324
+    }
+  },
+  {
+    "id": "carmel-city-beach",
+    "name": "Carmel City Beach",
+    "county": "Monterey",
+    "region": "central",
+    "score": 65,
+    "scoringDetails": {
+      "population": 20,
+      "facilities": 20,
+      "accessibility": 10,
+      "landmarks": 15,
+      "countyRepresentation": 0
+    },
+    "coordinates": {
+      "latitude": 36.554756,
+      "longitude": -121.930081
+    }
+  },
+  {
+    "id": "carmel-river-state-beach",
+    "name": "Carmel River State Beach",
+    "county": "Monterey",
+    "region": "central",
+    "score": 65,
+    "scoringDetails": {
+      "population": 20,
+      "facilities": 10,
+      "accessibility": 20,
+      "landmarks": 15,
+      "countyRepresentation": 0
+    },
+    "coordinates": {
+      "latitude": 36.538855,
+      "longitude": -121.927922
+    }
+  },
+  {
+    "id": "gaviota-state-park",
+    "name": "Gaviota State Park",
+    "county": "Santa Barbara",
+    "region": "south",
+    "score": 65,
+    "scoringDetails": {
+      "population": 10,
+      "facilities": 25,
+      "accessibility": 15,
+      "landmarks": 15,
+      "countyRepresentation": 0
+    },
+    "coordinates": {
+      "latitude": 34.477535,
+      "longitude": -120.228753
+    }
+  },
+  {
+    "id": "refugio-state-beach",
+    "name": "Refugio State Beach",
+    "county": "Santa Barbara",
+    "region": "south",
+    "score": 65,
+    "scoringDetails": {
+      "population": 10,
+      "facilities": 25,
+      "accessibility": 15,
+      "landmarks": 15,
+      "countyRepresentation": 0
+    },
+    "coordinates": {
+      "latitude": 34.463081,
+      "longitude": -120.070174
+    }
+  },
+  {
+    "id": "el-capit-aacute-n-state-beach",
+    "name": "El Capit&aacute;n State Beach",
+    "county": "Santa Barbara",
+    "region": "south",
+    "score": 65,
+    "scoringDetails": {
+      "population": 10,
+      "facilities": 25,
+      "accessibility": 15,
+      "landmarks": 15,
+      "countyRepresentation": 0
+    },
+    "coordinates": {
+      "latitude": 34.459321,
+      "longitude": -120.025783
+    }
+  },
+  {
+    "id": "west-beach-santa-barbara",
+    "name": "West Beach (Santa Barbara)",
+    "county": "Santa Barbara",
+    "region": "south",
+    "score": 65,
+    "scoringDetails": {
+      "population": 20,
+      "facilities": 30,
+      "accessibility": 15,
+      "landmarks": 0,
+      "countyRepresentation": 0
+    },
+    "coordinates": {
+      "latitude": 34.410884,
+      "longitude": -119.690147
+    }
+  },
+  {
+    "id": "carpinteria-city-beach",
+    "name": "Carpinteria City Beach",
+    "county": "Santa Barbara",
+    "region": "south",
+    "score": 65,
+    "scoringDetails": {
+      "population": 15,
+      "facilities": 15,
+      "accessibility": 20,
+      "landmarks": 15,
+      "countyRepresentation": 0
+    },
+    "coordinates": {
+      "latitude": 34.394746,
+      "longitude": -119.527755
+    }
+  },
+  {
+    "id": "will-rogers-state-beach-temescal-canyon-rd",
+    "name": "Will Rogers State Beach (Temescal Canyon Rd.)",
+    "county": "Los Angeles",
+    "region": "south",
+    "score": 65,
+    "scoringDetails": {
+      "population": 10,
+      "facilities": 25,
+      "accessibility": 15,
+      "landmarks": 15,
+      "countyRepresentation": 0
+    },
+    "coordinates": {
+      "latitude": 34.0356,
+      "longitude": -118.53615
+    }
+  }
+]

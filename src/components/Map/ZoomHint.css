@@ -1,0 +1,77 @@
+.zoom-hint {
+  position: absolute;
+  bottom: 30px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 1000;
+  background-color: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(10px);
+  padding: 12px 20px;
+  border-radius: 24px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  pointer-events: none;
+  animation: zoomHintFadeIn 0.3s ease-out;
+}
+
+@keyframes zoomHintFadeIn {
+  from {
+    opacity: 0;
+    transform: translateX(-50%) translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(-50%) translateY(0);
+  }
+}
+
+.zoom-hint-icon {
+  font-size: 20px;
+  line-height: 1;
+}
+
+.zoom-hint-content {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.zoom-hint-title {
+  font-size: 14px;
+  font-weight: 600;
+  color: #1a1a1a;
+  line-height: 1.2;
+}
+
+.zoom-hint-text {
+  font-size: 12px;
+  color: #666;
+  line-height: 1.2;
+}
+
+.zoom-hint-count {
+  font-weight: 600;
+  color: #1976d2;
+}
+
+@media (max-width: 768px) {
+  .zoom-hint {
+    bottom: 20px;
+    padding: 10px 16px;
+    max-width: calc(100% - 40px);
+  }
+
+  .zoom-hint-icon {
+    font-size: 18px;
+  }
+
+  .zoom-hint-title {
+    font-size: 13px;
+  }
+
+  .zoom-hint-text {
+    font-size: 11px;
+  }
+}

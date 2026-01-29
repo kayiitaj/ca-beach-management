@@ -1,0 +1,27 @@
+{
+  "name": "ca-beach-data-scripts",
+  "version": "1.0.0",
+  "description": "Data processing scripts for California Beach Management System",
+  "type": "module",
+  "scripts": {
+    "fetch": "tsx data-import/fetchAccessLocations.ts",
+    "transform": "tsx data-import/transformApiData.ts",
+    "polygons": "tsx data-import/generatePolygons.ts",
+    "select-top50": "tsx research/selectTop50.ts",
+    "merge": "tsx data-import/mergeDataSources.ts",
+    "validate": "tsx research/validateData.ts",
+    "pipeline": "npm run fetch && npm run transform && npm run polygons && npm run select-top50 && npm run merge && npm run validate"
+  },
+  "dependencies": {
+    "@turf/turf": "^6.5.0",
+    "axios": "^1.6.5",
+    "dotenv": "^16.4.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "geojson-validation": "^1.0.2",
+    "ts-node": "^10.9.2",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  }
+}

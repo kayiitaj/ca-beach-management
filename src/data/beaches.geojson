@@ -1,0 +1,472 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-118.5006, 34.0195],
+            [-118.5000, 34.0180],
+            [-118.4995, 34.0160],
+            [-118.4992, 34.0140],
+            [-118.4990, 34.0120],
+            [-118.4988, 34.0100],
+            [-118.4986, 34.0080],
+            [-118.4985, 34.0060],
+            [-118.4983, 34.0040],
+            [-118.4982, 34.0020],
+            [-118.4980, 34.0000],
+            [-118.4978, 33.9980],
+            [-118.4977, 33.9960],
+            [-118.4975, 33.9940],
+            [-118.4974, 33.9920],
+            [-118.4990, 33.9920],
+            [-118.5002, 33.9940],
+            [-118.5004, 33.9960],
+            [-118.5005, 33.9980],
+            [-118.5006, 34.0000],
+            [-118.5007, 34.0020],
+            [-118.5008, 34.0040],
+            [-118.5009, 34.0060],
+            [-118.5010, 34.0080],
+            [-118.5010, 34.0100],
+            [-118.5010, 34.0120],
+            [-118.5009, 34.0140],
+            [-118.5008, 34.0160],
+            [-118.5007, 34.0180],
+            [-118.5006, 34.0195]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "santa-monica-state-beach",
+        "name": "Santa Monica State Beach",
+        "managementType": "state",
+        "accountableEntity": "State of California",
+        "managingEntity": "California State Parks",
+        "lifeguardService": "LA County Lifeguards (contracted)",
+        "managerContact": {
+          "department": "Los Angeles Coast District",
+          "phone": "(310) 305-9503",
+          "email": "lacoast@parks.ca.gov",
+          "website": "https://www.parks.ca.gov/?page_id=625"
+        },
+        "county": "Los Angeles",
+        "region": "south",
+        "facilities": ["parking", "restrooms", "lifeguards", "bike path"],
+        "notes": "One of California's most visited beaches with iconic pier"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-117.9944, 33.7501],
+            [-117.9940, 33.7490],
+            [-117.9936, 33.7480],
+            [-117.9932, 33.7470],
+            [-117.9928, 33.7460],
+            [-117.9925, 33.7450],
+            [-117.9922, 33.7440],
+            [-117.9920, 33.7430],
+            [-117.9919, 33.7420],
+            [-117.9918, 33.7410],
+            [-117.9917, 33.7400],
+            [-117.9916, 33.7390],
+            [-117.9916, 33.7380],
+            [-117.9917, 33.7370],
+            [-117.9918, 33.7360],
+            [-117.9920, 33.7350],
+            [-117.9932, 33.7355],
+            [-117.9938, 33.7365],
+            [-117.9942, 33.7375],
+            [-117.9944, 33.7385],
+            [-117.9945, 33.7395],
+            [-117.9946, 33.7405],
+            [-117.9947, 33.7415],
+            [-117.9947, 33.7425],
+            [-117.9947, 33.7435],
+            [-117.9947, 33.7445],
+            [-117.9946, 33.7455],
+            [-117.9946, 33.7465],
+            [-117.9945, 33.7475],
+            [-117.9945, 33.7485],
+            [-117.9944, 33.7501]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "laguna-beach-main",
+        "name": "Main Beach - Laguna Beach",
+        "managementType": "city",
+        "accountableEntity": "City of Laguna Beach",
+        "managingEntity": "City of Laguna Beach",
+        "lifeguardService": "Laguna Beach Marine Safety Department",
+        "managerContact": {
+          "department": "Marine Safety Department",
+          "phone": "(949) 497-0706",
+          "email": "marinesafety@lagunabeachcity.net",
+          "website": "https://www.lagunabeachcity.net/departments/marine-safety"
+        },
+        "county": "Orange",
+        "region": "south",
+        "facilities": ["parking", "restrooms", "lifeguards", "volleyball courts"],
+        "notes": "Popular beach in the heart of Laguna Beach with basketball courts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-117.2664, 32.7520],
+            [-117.2660, 32.7510],
+            [-117.2656, 32.7500],
+            [-117.2652, 32.7490],
+            [-117.2648, 32.7480],
+            [-117.2645, 32.7470],
+            [-117.2643, 32.7460],
+            [-117.2641, 32.7450],
+            [-117.2640, 32.7440],
+            [-117.2639, 32.7430],
+            [-117.2638, 32.7420],
+            [-117.2638, 32.7410],
+            [-117.2638, 32.7400],
+            [-117.2639, 32.7390],
+            [-117.2640, 32.7380],
+            [-117.2648, 32.7385],
+            [-117.2654, 32.7395],
+            [-117.2658, 32.7405],
+            [-117.2660, 32.7415],
+            [-117.2661, 32.7425],
+            [-117.2662, 32.7435],
+            [-117.2663, 32.7445],
+            [-117.2663, 32.7455],
+            [-117.2663, 32.7465],
+            [-117.2663, 32.7475],
+            [-117.2663, 32.7485],
+            [-117.2663, 32.7495],
+            [-117.2663, 32.7505],
+            [-117.2664, 32.7520]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "la-jolla-shores",
+        "name": "La Jolla Shores",
+        "managementType": "county",
+        "accountableEntity": "County of San Diego",
+        "managingEntity": "San Diego County Parks and Recreation",
+        "contractedManager": "City of San Diego (day-to-day operations)",
+        "lifeguardService": "San Diego Lifeguard Services",
+        "managerContact": {
+          "department": "Department of Parks and Recreation",
+          "phone": "(858) 565-3600",
+          "email": "dprlajollashores@sdcounty.ca.gov",
+          "website": "https://www.sandiegocounty.gov/parks"
+        },
+        "county": "San Diego",
+        "region": "south",
+        "facilities": ["parking", "restrooms", "lifeguards", "picnic areas", "kayak launch"],
+        "notes": "Family-friendly beach popular for swimming, kayaking, and diving"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-117.8701, 33.6240],
+            [-117.8698, 33.6230],
+            [-117.8695, 33.6220],
+            [-117.8692, 33.6210],
+            [-117.8690, 33.6200],
+            [-117.8688, 33.6190],
+            [-117.8686, 33.6180],
+            [-117.8684, 33.6170],
+            [-117.8683, 33.6160],
+            [-117.8682, 33.6150],
+            [-117.8681, 33.6140],
+            [-117.8680, 33.6130],
+            [-117.8680, 33.6120],
+            [-117.8680, 33.6110],
+            [-117.8680, 33.6100],
+            [-117.8680, 33.6090],
+            [-117.8680, 33.6080],
+            [-117.8680, 33.6070],
+            [-117.8680, 33.6060],
+            [-117.8680, 33.6050],
+            [-117.8686, 33.6055],
+            [-117.8690, 33.6065],
+            [-117.8693, 33.6075],
+            [-117.8695, 33.6085],
+            [-117.8696, 33.6095],
+            [-117.8697, 33.6105],
+            [-117.8698, 33.6115],
+            [-117.8699, 33.6125],
+            [-117.8699, 33.6135],
+            [-117.8700, 33.6145],
+            [-117.8700, 33.6155],
+            [-117.8700, 33.6165],
+            [-117.8700, 33.6175],
+            [-117.8700, 33.6185],
+            [-117.8700, 33.6195],
+            [-117.8700, 33.6205],
+            [-117.8700, 33.6215],
+            [-117.8700, 33.6225],
+            [-117.8701, 33.6240]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "crystal-cove-state-park",
+        "name": "Crystal Cove State Park Beach",
+        "managementType": "state",
+        "accountableEntity": "State of California",
+        "managingEntity": "California State Parks",
+        "lifeguardService": "California State Parks Lifeguards",
+        "managerContact": {
+          "department": "Orange Coast District",
+          "phone": "(949) 494-3539",
+          "email": "orangecoast@parks.ca.gov",
+          "website": "https://www.parks.ca.gov/?page_id=644"
+        },
+        "county": "Orange",
+        "region": "south",
+        "facilities": ["parking", "restrooms", "lifeguards", "hiking trails"],
+        "notes": "Pristine beach with historic district and marine protected area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-122.0302, 36.9570],
+            [-122.0298, 36.9565],
+            [-122.0294, 36.9560],
+            [-122.0290, 36.9555],
+            [-122.0288, 36.9550],
+            [-122.0286, 36.9545],
+            [-122.0284, 36.9540],
+            [-122.0282, 36.9535],
+            [-122.0281, 36.9530],
+            [-122.0280, 36.9525],
+            [-122.0280, 36.9520],
+            [-122.0280, 36.9515],
+            [-122.0280, 36.9510],
+            [-122.0280, 36.9505],
+            [-122.0280, 36.9500],
+            [-122.0286, 36.9502],
+            [-122.0290, 36.9507],
+            [-122.0294, 36.9512],
+            [-122.0296, 36.9517],
+            [-122.0298, 36.9522],
+            [-122.0299, 36.9527],
+            [-122.0300, 36.9532],
+            [-122.0301, 36.9537],
+            [-122.0301, 36.9542],
+            [-122.0301, 36.9547],
+            [-122.0301, 36.9552],
+            [-122.0301, 36.9557],
+            [-122.0302, 36.9562],
+            [-122.0302, 36.9570]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "santa-cruz-main-beach",
+        "name": "Santa Cruz Main Beach",
+        "managementType": "city",
+        "accountableEntity": "City of Santa Cruz",
+        "managingEntity": "City of Santa Cruz Parks & Recreation",
+        "lifeguardService": "Santa Cruz Fire Department - Lifeguard Division",
+        "managerContact": {
+          "department": "Parks and Recreation Department",
+          "phone": "(831) 420-5270",
+          "email": "parks@cityofsantacruz.com",
+          "website": "https://www.cityofsantacruz.com/government/city-departments/parks-recreation"
+        },
+        "county": "Santa Cruz",
+        "region": "central",
+        "facilities": ["parking", "restrooms", "lifeguards", "boardwalk", "volleyball"],
+        "notes": "Historic beach next to the famous Santa Cruz Beach Boardwalk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-121.8952, 36.6100],
+            [-121.8948, 36.6095],
+            [-121.8944, 36.6090],
+            [-121.8940, 36.6085],
+            [-121.8937, 36.6080],
+            [-121.8935, 36.6075],
+            [-121.8933, 36.6070],
+            [-121.8932, 36.6065],
+            [-121.8931, 36.6060],
+            [-121.8931, 36.6055],
+            [-121.8930, 36.6050],
+            [-121.8930, 36.6045],
+            [-121.8930, 36.6040],
+            [-121.8930, 36.6035],
+            [-121.8930, 36.6030],
+            [-121.8936, 36.6032],
+            [-121.8940, 36.6037],
+            [-121.8943, 36.6042],
+            [-121.8945, 36.6047],
+            [-121.8947, 36.6052],
+            [-121.8948, 36.6057],
+            [-121.8949, 36.6062],
+            [-121.8950, 36.6067],
+            [-121.8950, 36.6072],
+            [-121.8951, 36.6077],
+            [-121.8951, 36.6082],
+            [-121.8951, 36.6087],
+            [-121.8952, 36.6092],
+            [-121.8952, 36.6100]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "carmel-beach",
+        "name": "Carmel Beach",
+        "managementType": "city",
+        "accountableEntity": "City of Carmel-by-the-Sea",
+        "managingEntity": "City of Carmel-by-the-Sea",
+        "lifeguardService": "Monterey Fire Department (contracted)",
+        "managerContact": {
+          "department": "Public Works Department",
+          "phone": "(831) 620-2000",
+          "email": "publicworks@ci.carmel.ca.us",
+          "website": "https://www.ci.carmel.ca.us"
+        },
+        "county": "Monterey",
+        "region": "central",
+        "facilities": ["restrooms", "off-leash dog area"],
+        "notes": "Scenic beach known for white sand, cypress trees, and dog-friendly policies"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-122.4850, 37.8090],
+            [-122.4846, 37.8085],
+            [-122.4843, 37.8080],
+            [-122.4841, 37.8075],
+            [-122.4839, 37.8070],
+            [-122.4837, 37.8065],
+            [-122.4836, 37.8060],
+            [-122.4834, 37.8055],
+            [-122.4833, 37.8050],
+            [-122.4832, 37.8045],
+            [-122.4831, 37.8040],
+            [-122.4831, 37.8035],
+            [-122.4830, 37.8030],
+            [-122.4830, 37.8025],
+            [-122.4830, 37.8020],
+            [-122.4835, 37.8022],
+            [-122.4838, 37.8027],
+            [-122.4841, 37.8032],
+            [-122.4843, 37.8037],
+            [-122.4844, 37.8042],
+            [-122.4845, 37.8047],
+            [-122.4846, 37.8052],
+            [-122.4847, 37.8057],
+            [-122.4848, 37.8062],
+            [-122.4848, 37.8067],
+            [-122.4849, 37.8072],
+            [-122.4849, 37.8077],
+            [-122.4850, 37.8082],
+            [-122.4850, 37.8090]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "baker-beach",
+        "name": "Baker Beach",
+        "managementType": "federal",
+        "accountableEntity": "U.S. Federal Government",
+        "managingEntity": "National Park Service",
+        "lifeguardService": "National Park Service Rangers",
+        "managerContact": {
+          "department": "Golden Gate National Recreation Area",
+          "phone": "(415) 561-4700",
+          "website": "https://www.nps.gov/goga/planyourvisit/bakerbeach.htm"
+        },
+        "county": "San Francisco",
+        "region": "north",
+        "facilities": ["parking", "restrooms", "picnic areas"],
+        "notes": "Famous for Golden Gate Bridge views, popular with photographers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-118.8820, 34.0375],
+            [-118.8816, 34.0370],
+            [-118.8812, 34.0365],
+            [-118.8809, 34.0360],
+            [-118.8807, 34.0355],
+            [-118.8805, 34.0350],
+            [-118.8803, 34.0345],
+            [-118.8802, 34.0340],
+            [-118.8801, 34.0335],
+            [-118.8801, 34.0330],
+            [-118.8800, 34.0325],
+            [-118.8800, 34.0320],
+            [-118.8800, 34.0315],
+            [-118.8800, 34.0310],
+            [-118.8806, 34.0312],
+            [-118.8810, 34.0317],
+            [-118.8813, 34.0322],
+            [-118.8815, 34.0327],
+            [-118.8816, 34.0332],
+            [-118.8817, 34.0337],
+            [-118.8818, 34.0342],
+            [-118.8818, 34.0347],
+            [-118.8819, 34.0352],
+            [-118.8819, 34.0357],
+            [-118.8819, 34.0362],
+            [-118.8819, 34.0367],
+            [-118.8820, 34.0375]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "zuma-beach",
+        "name": "Zuma Beach",
+        "managementType": "county",
+        "accountableEntity": "County of Los Angeles",
+        "managingEntity": "LA County Department of Beaches and Harbors",
+        "lifeguardService": "LA County Lifeguards",
+        "managerContact": {
+          "department": "Department of Beaches and Harbors",
+          "phone": "(310) 305-9503",
+          "email": "beaches@bh.lacounty.gov",
+          "website": "https://beaches.lacounty.gov"
+        },
+        "county": "Los Angeles",
+        "region": "south",
+        "facilities": ["parking", "restrooms", "lifeguards", "playground", "volleyball courts"],
+        "notes": "Popular Malibu beach with wide sandy shores and excellent swimming"
+      }
+    }
+  ]
+}
